@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LoopVector", "LoopVector\LoopVector.vcxproj", "{1314C92C-880D-4A0E-85F1-44E8D56CFCEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1314C92C-880D-4A0E-85F1-44E8D56CFCEA}.Debug|x64.ActiveCfg = Debug|x64
+		{1314C92C-880D-4A0E-85F1-44E8D56CFCEA}.Debug|x64.Build.0 = Debug|x64
+		{1314C92C-880D-4A0E-85F1-44E8D56CFCEA}.Debug|x86.ActiveCfg = Debug|Win32
+		{1314C92C-880D-4A0E-85F1-44E8D56CFCEA}.Debug|x86.Build.0 = Debug|Win32
+		{1314C92C-880D-4A0E-85F1-44E8D56CFCEA}.Release|x64.ActiveCfg = Release|x64
+		{1314C92C-880D-4A0E-85F1-44E8D56CFCEA}.Release|x64.Build.0 = Release|x64
+		{1314C92C-880D-4A0E-85F1-44E8D56CFCEA}.Release|x86.ActiveCfg = Release|Win32
+		{1314C92C-880D-4A0E-85F1-44E8D56CFCEA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62BD24E9-F648-4267-9B06-461FD8A338E8}
+	EndGlobalSection
+EndGlobal
